@@ -4,7 +4,6 @@
 
 [HELICS.jl](https://github.com/GMLC-TDC/HELICS.jl) is a cross-platform Julia wrapper around the [HELICS](https://github.com/GMLC-TDC/HELICS) library.
 
-
 **This package is now available for Windows, Mac, and Linux.**
 
 ### Documentation
